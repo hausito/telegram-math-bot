@@ -1,0 +1,1 @@
+worker: python math_bot.py
